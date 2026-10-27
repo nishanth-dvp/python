@@ -21,7 +21,7 @@ def chatbot(message):
         return "Sorry, I don't understand."
 
 
-print("====nvm= Basic Chatbot =sd====")
+print("===== Basic Chatbot =====")
 print("Type 'bye' to exit.")
 name=input("Enter your name: ")
 while True:
